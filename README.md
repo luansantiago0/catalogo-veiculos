@@ -12,7 +12,8 @@ Este projeto consiste em um sistema de catálogo de veículos à venda, com uma 
 - API Endpoints
 - Autor
 # Sistema do projeto em execução
-https://youtu.be/lBAw95-9Skg
+https://youtu.be/ah3anaOuiLQ
+
 # Tecnologias utilizadas
 - Banco de dados: (Dbeaver, Mysql)
 - Back end: (Python(FastAPI), SQLALchemy, BucketS3(AWS), JWT).
