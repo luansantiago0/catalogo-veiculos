@@ -37,6 +37,10 @@ instalações das dependências dentro da pasta catalogo-veiculos-back:
 #pip install PyJWT
 #pip install passlib
 #pip install python-dotenv
+#pip install bcrypt
+#pip install python-multipart
+#pip install boto3
+#pip install mysql-connector-python 
 ```
 
 ```bash
